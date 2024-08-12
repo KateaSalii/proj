@@ -5,6 +5,7 @@ public class MainApplication {
         System.out.println("--------");
         System.out.println("Hello World!");
         System.out.println("1119991111");
+        doSomething();
         System.out.println("----");
     }
 
